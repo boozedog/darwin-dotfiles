@@ -1,6 +1,8 @@
 {
-    "workbench.colorTheme": "Maple Dark",
+    "workbench.colorTheme": "GitHub Dark Default",
     "workbench.iconTheme": "catppuccin-mocha",
     "editor.fontFamily": "Maple Mono NL NF",
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "nix.enableLanguageServer": true,
+    "nix.serverPath": "nixd"
 }
