@@ -3,6 +3,7 @@
 ```sh
 chezmoi diff
 chezmoi cd
+chezmoi list
 chezmoi add ~/.config/btop
 chezmoi add ~/.config/fish
 chezmoi add ~/.config/ghostty
