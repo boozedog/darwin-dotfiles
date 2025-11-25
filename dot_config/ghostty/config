@@ -51,3 +51,9 @@ font-family = Maple Mono NL NF
 theme = GitHub Dark
 #theme = Monokai Remastered
 #theme = Ultra Dark
+
+# support shift-enter in claude
+keybind = shift+enter=text:\x1b\r
+
+# support alt key in tmux
+macos-option-as-alt = left

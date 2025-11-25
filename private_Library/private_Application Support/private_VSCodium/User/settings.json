@@ -1,8 +1,13 @@
 {
-    "workbench.colorTheme": "GitHub Dark Default",
-    "workbench.iconTheme": "catppuccin-mocha",
-    "editor.fontFamily": "Maple Mono NL NF",
-    "editor.fontSize": 14,
-    "nix.enableLanguageServer": true,
-    "nix.serverPath": "nixd"
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "editor.fontFamily": "Maple Mono NL NF",
+  "editor.fontSize": 14,
+  "nix.enableLanguageServer": true,
+  "nix.serverPath": "nixd",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.indentSize": "tabSize",
+  "editor.formatOnSave": true,
+  "workbench.activityBar.location": "hidden"
 }
